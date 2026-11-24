@@ -163,6 +163,17 @@ They do not explain the internal mechanisms. They leave open whether the agents 
 
 ---
 
+
+- https://github.com/ericrenone/Emergent-Cognitive-Metrics-LLM
+
+- https://github.com/ericrenone/CONCERT-Collective-Optimization-through-Nondependent-Coordination-Evidence
+
+- https://github.com/ericrenone/THEPLAYTHEOREM
+
+
+---
+
+
 ## 4. The ERI timeline
 
 Entries that bear on the island only.
