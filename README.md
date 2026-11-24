@@ -2,6 +2,14 @@
 
 ### The MIT island study (arXiv 2610.07130) against the ERI Labs coordination timeline, February–October 2026
 
+---
+
+
+- https://arxiv.org/abs/2610.07130
+- https://github.com/ericrenone/THE-CONVERGENCE-RECORD
+
+---
+
 **Eric Ren · ERI Labs · Jersey City, NJ · Compiled November 24, 2026**
 
 ---
